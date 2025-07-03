@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains&pause=1000&color=5F99AE&center=false&width=435&lines=I'm+Ferdy+Mohamad+Firdaus;This+is..;My+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains&pause=1000&color=5F99AE&center=false&width=435&lines=I'm+Muhammad+Rizky+Pratama+Solahudin;This+is..;My+Github)](https://git.io/typing-svg)
 
 ### 👨‍💻 About Me:
 
@@ -8,7 +8,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mrizkypratamas/)
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG16a29uNGk2N21tbjI2bjl1MG93Zm95aTEyejJndHVqaXFmNjZqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" width="500"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTB6bzNvYjRwdHZpNjlza3I0M2xxdzBtZ3lxNjJ5dWZueTd3M25rYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="500"/>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 ### 🐍 GitHub Contribution Snake:
 
 <p align="center">
-  <img src="https://github.com/kzuferdy/kzuferdy/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/rizkyxp/rizkyxp/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
