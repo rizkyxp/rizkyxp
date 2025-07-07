@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently work in **ID Solutions**
 - 👀 I’m Flutter Developer
-- 💬 Ask me about **Flutter**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mrizkypratamas/)
+- 📍 Location: Bandung, Indonesia
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTB6bzNvYjRwdHZpNjlza3I0M2xxdzBtZ3lxNjJ5dWZueTd3M25rYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="400"/>
@@ -58,3 +57,6 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+⏱️ *Last updated: July 7th, 2025*
